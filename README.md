@@ -27,7 +27,7 @@ This repository includes PCB-project files for a STM32 based isolated auido DSP-
 
 # Manufacturing Information
 
-- Length = 100mm, Width = 70mm, Thickness = 1.6 mm
+- Length = 100mm, Width = 75mm, Thickness = 1.6 mm
 - Layers = 6
 - Min. Via Hole diameter = 0.3 mm
 - Via-Type: Epoxy Filled and Capped
