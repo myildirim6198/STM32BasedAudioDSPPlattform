@@ -1,0 +1,9 @@
+Record=TopLevelDocument|FileName=AudioCodec.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=AudioCodec.SchDoc|FileName=Decoupling.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=AudioCodec.SchDoc|FileName=GPIOPins.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=AudioCodec.SchDoc|FileName=IsolationBarriers.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=AudioCodec.SchDoc|FileName=MCU_Overview.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=AudioCodec.SchDoc|FileName=MCUConfig.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=AudioCodec.SchDoc|FileName=PowerSupply.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=AudioCodec.SchDoc|FileName=SDRAMModule.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=AudioCodec.SchDoc|FileName=USBHSULPI.SchDoc|SheetNumber=7

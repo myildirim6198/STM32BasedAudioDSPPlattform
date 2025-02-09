@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GNDANA Pin=C102-1
+Removed Pin From Net: NetName=+3V3_ANALOG Pin=C102-2
+Removed Pin From Net: NetName=GNDANA Pin=C104-1
+Removed Pin From Net: NetName=+3V3_FE Pin=C104-2
+Removed Member From Class: ClassName=IsolationBarriers Member=C104
+Removed Member From Class: ClassName=IsolationBarriers Member=C105
+Change Component Designator: OldDesignator=C103 NewDesignator=C102
+Change Component Designator: OldDesignator=C105 NewDesignator=C103

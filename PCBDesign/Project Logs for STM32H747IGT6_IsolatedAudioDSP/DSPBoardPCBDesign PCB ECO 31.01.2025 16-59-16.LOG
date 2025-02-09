@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=IC5-4
+Added Pin To Net: NetName=GNDANA Pin=IC5-4
+Added Member To Class: ClassName=IsolationBarriers Member=Component C94 10u
+Added Member To Class: ClassName=IsolationBarriers Member=Component C95 10u
+Added Member To Class: ClassName=IsolationBarriers Member=Component C97 100n
+Added Member To Class: ClassName=IsolationBarriers Member=Component C98 100n
+Added Member To Class: ClassName=IsolationBarriers Member=Component C100 10u
+Added Member To Class: ClassName=IsolationBarriers Member=Component C101 47u
+Added Member To Class: ClassName=IsolationBarriers Member=Component C103 47u

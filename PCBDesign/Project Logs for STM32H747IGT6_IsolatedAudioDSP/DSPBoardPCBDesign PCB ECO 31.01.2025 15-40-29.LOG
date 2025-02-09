@@ -1,0 +1,23 @@
+Change Component Designator: OldDesignator=C94 NewDesignator=C95
+Change Component Designator: OldDesignator=C95 NewDesignator=C96
+Change Component Designator: OldDesignator=C96 NewDesignator=C97
+Change Component Designator: OldDesignator=C97 NewDesignator=C98
+Change Component Designator: OldDesignator=C98 NewDesignator=C99
+Change Component Designator: OldDesignator=C99 NewDesignator=C100
+Change Component Designator: OldDesignator=C100 NewDesignator=C101
+Change Component Designator: OldDesignator=C101 NewDesignator=C102
+Change Component Designator: OldDesignator=C102 NewDesignator=C103
+Change Component Designator: OldDesignator=C103 NewDesignator=C104
+Added Component: Designator=C94(CAP_0603)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GNDANA Pin=C94-1
+Added Pin To Net: NetName=+3V3_ANALOG Pin=C94-2
+Change Net Name : Old Net Name=NetC99_2 New Net Name=NetC100_2
+Added Member To Class: ClassName=IsolationBarriers Member=Component C102 47u
+Added Member To Class: ClassName=IsolationBarriers Member=Component C103 47u
+Added Member To Class: ClassName=IsolationBarriers Member=Component C104 47u

@@ -1,0 +1,91 @@
+Removed Member From Class: ClassName=MCUConfig Member=C36
+Removed Member From Class: ClassName=SDRAMModule Member=C40
+Removed Member From Class: ClassName=SDRAMModule Member=C46
+Removed Member From Class: ClassName=AudioCodec Member=C59
+Removed Member From Class: ClassName=AudioCodec Member=C61
+Removed Member From Class: ClassName=AudioCodec Member=C63
+Removed Member From Class: ClassName=IsolationBarriers Member=C69
+Removed Member From Class: ClassName=IsolationBarriers Member=C71
+Removed Member From Class: ClassName=IsolationBarriers Member=C73
+Removed Member From Class: ClassName=IsolationBarriers Member=C75
+Removed Member From Class: ClassName=IsolationBarriers Member=C77
+Removed Member From Class: ClassName=IsolationBarriers Member=C79
+Removed Member From Class: ClassName=IsolationBarriers Member=C81
+Removed Member From Class: ClassName=IsolationBarriers Member=C83
+Removed Member From Class: ClassName=IsolationBarriers Member=C85
+Removed Member From Class: ClassName=IsolationBarriers Member=C87
+Removed Member From Class: ClassName=IsolationBarriers Member=C89
+Removed Member From Class: ClassName=IsolationBarriers Member=IC6
+Removed Member From Class: ClassName=IsolationBarriers Member=IC7
+Removed Member From Class: ClassName=GPIOPins Member=R16
+Removed Member From Class: ClassName=USBHSULPI Member=R18
+Removed Member From Class: ClassName=AudioCodec Member=R22
+Removed Member From Class: ClassName=AudioCodec Member=R24
+Added Member To Class: ClassName=Decoupling Member=Component C14 100n
+Added Member To Class: ClassName=Decoupling Member=Component C15 100n
+Added Member To Class: ClassName=Decoupling Member=Component C16 100n
+Added Member To Class: ClassName=Decoupling Member=Component C17 100n
+Added Member To Class: ClassName=Decoupling Member=Component C18 100n
+Added Member To Class: ClassName=Decoupling Member=Component C19 100n
+Added Member To Class: ClassName=Decoupling Member=Component C20 100n
+Added Member To Class: ClassName=Decoupling Member=Component C21 100n
+Added Member To Class: ClassName=Decoupling Member=Component C22 100n
+Added Member To Class: ClassName=Decoupling Member=Component C23 100n
+Added Member To Class: ClassName=Decoupling Member=Component C24 100n
+Added Member To Class: ClassName=Decoupling Member=Component C26 100n
+Added Member To Class: ClassName=Decoupling Member=Component C38 2u2
+Added Member To Class: ClassName=Decoupling Member=Component C39 1u
+Added Member To Class: ClassName=Decoupling Member=Component C41 47u
+Added Member To Class: ClassName=Decoupling Member=Component C42 47u
+Added Member To Class: ClassName=Decoupling Member=Component C43 47u
+Added Member To Class: ClassName=Decoupling Member=Component C44 47u
+Added Member To Class: ClassName=Decoupling Member=Component C45 47u
+Added Member To Class: ClassName=MCUConfig Member=Component C47 100n
+Added Member To Class: ClassName=SDRAMModule Member=Component C51 100n
+Added Member To Class: ClassName=SDRAMModule Member=Component C57 100n
+Added Member To Class: ClassName=AudioCodec Member=Component C70 1u
+Added Member To Class: ClassName=AudioCodec Member=Component C72 100n
+Added Member To Class: ClassName=AudioCodec Member=Component C74 10n
+Added Member To Class: ClassName=AudioCodec Member=Component C76 10u
+Added Member To Class: ClassName=AudioCodec Member=Component C78 10u
+Added Member To Class: ClassName=AudioCodec Member=Component C80 10u
+Added Member To Class: ClassName=AudioCodec Member=Component C82 10u
+Added Member To Class: ClassName=AudioCodec Member=Component C84 10n
+Added Member To Class: ClassName=AudioCodec Member=Component C86 220p
+Added Member To Class: ClassName=AudioCodec Member=Component C88 10u
+Added Member To Class: ClassName=IsolationBarriers Member=Component C90 100n
+Added Member To Class: ClassName=IsolationBarriers Member=Component C91 100n
+Added Member To Class: ClassName=IsolationBarriers Member=Component C92 10u
+Added Member To Class: ClassName=IsolationBarriers Member=Component C93 10u
+Added Member To Class: ClassName=IsolationBarriers Member=Component C94 10u
+Added Member To Class: ClassName=IsolationBarriers Member=Component C95 10u
+Added Member To Class: ClassName=IsolationBarriers Member=Component C96 100n
+Added Member To Class: ClassName=IsolationBarriers Member=Component C97 100n
+Added Member To Class: ClassName=IsolationBarriers Member=Component C98 100n
+Added Member To Class: ClassName=IsolationBarriers Member=Component C99 10u
+Added Member To Class: ClassName=IsolationBarriers Member=Component C100 47u
+Added Member To Class: ClassName=Decoupling Member=Component FB1 120R @ 100 MHz
+Added Member To Class: ClassName=IsolationBarriers Member=Component FB2 120R @ 100 MHz
+Added Member To Class: ClassName=Decoupling Member=Component IC3 STM32H747IGT6
+Added Member To Class: ClassName=SDRAMModule Member=Component IC4 IS42S16400J-7TL
+Added Member To Class: ClassName=IsolationBarriers Member=Component IC8 DCP020503U
+Added Member To Class: ClassName=IsolationBarriers Member=Component IC9 ISO7740FQDWRQ1
+Added Member To Class: ClassName=MCUConfig Member=Component R12 100k
+Added Member To Class: ClassName=MCUConfig Member=Component R13 22R
+Added Member To Class: ClassName=MCUConfig Member=Component R14 100k
+Added Member To Class: ClassName=MCUConfig Member=Component R15 100k
+Added Member To Class: ClassName=GPIOPins Member=Component R17 22R
+Added Member To Class: ClassName=GPIOPins Member=Component R19 22R
+Added Member To Class: ClassName=USBHSULPI Member=Component R21 22R
+Added Member To Class: ClassName=USBHSULPI Member=Component R23 5k1
+Added Member To Class: ClassName=USBHSULPI Member=Component R25 8k06
+Added Member To Class: ClassName=AudioCodec Member=Component R27 820R
+Added Member To Class: ClassName=AudioCodec Member=Component R29 100k
+Added Member To Class: ClassName=AudioCodec Member=Component R31 820R
+Added Member To Class: ClassName=AudioCodec Member=Component R33 100R
+Added Member To Class: ClassName=AudioCodec Member=Component R35 1Meg
+Added Member To Class: ClassName=AudioCodec Member=Component R36 100R
+Added Member To Class: ClassName=AudioCodec Member=Component R37 1Meg
+Added Member To Class: ClassName=IsolationBarriers Member=Component R38 1Meg
+Added Member To Class: ClassName=IsolationBarriers Member=Component R39 10k
+Added Member To Class: ClassName=IsolationBarriers Member=Component R40 10k
