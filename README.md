@@ -14,7 +14,6 @@ This repository includes PCB-project files for a STM32 based isolated auido DSP-
 
 # Applications:
 
-- Microphone Arrays
 - Ultrasound
 - Audio algorithm development testing plattform
 - Audio Analyzer
